@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.QuizApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Тёмная тема по умолчанию -->
+        <item name="android:windowBackground">@color/dark_background</item>
+        <item name="android:statusBarColor">@color/dark_background</item>
+        <item name="android:navigationBarColor">@color/dark_background</item>
+        <item name="colorPrimary">@color/button_purple</item>
+        <item name="colorPrimaryVariant">@color/button_purple_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+    </style>
+</resources>
